@@ -1,6 +1,4 @@
-# reviews-sentiment-analysis
-
-# Sentiment Analysis on IMDB Reviews
+# Sentiment Analysis on Google Play Store Reviews
 
 ## Team: aiserpants
 
