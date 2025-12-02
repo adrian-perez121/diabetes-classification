@@ -1,6 +1,6 @@
 # Data manipulation
 pandas==2.0.3
-numpy==1.24.3
+numpy
 
 # Visualization
 matplotlib==3.7.2
